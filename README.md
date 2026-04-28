@@ -33,8 +33,8 @@ Hibernate
 MySQL / H2 (depending on your config)
 ▶️ How to Run the Project
 1. Clone the Repository
-git clone https://github.com/deb-raj/PickMeNow.git
-cd PickMeNow
+git clone https://github.com/deb-raj/cab-booking-system.git
+cd cab-booking-system
 2. Open in IDE
 
 Open the project in:
