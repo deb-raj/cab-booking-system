@@ -33,7 +33,7 @@ Hibernate
 MySQL / H2 (depending on your config)
 ▶️ How to Run the Project
 1. Clone the Repository
-git clone https://github.com/your-username/PickMeNow.git
+git clone https://github.com/deb-raj/PickMeNow.git
 cd PickMeNow
 2. Open in IDE
 
